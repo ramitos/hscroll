@@ -1,7 +1,7 @@
 {
   "name": "hscroll",
   "repo": "ramitos/hscroll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "horizontal scroll",
   "main": "src/hscroll.js",
   "scripts": ["src/hscroll.js"],
